@@ -13,7 +13,7 @@
 |10th Semester Final update|[ppt](https://github.com/prayagyadav/presentations/raw/main/src/ppt/10th_Semester_Final.pptx)|[pdf](https://github.com/prayagyadav/presentations/raw/main/src/pdf/10th_Semester_Final.pdf)|
 
 
-## Links to my master's thesis
+## Link to my master's thesis
 |Description|PDF Link|
 |------|------|
 |Masters Thesis|[pdf](https://github.com/prayagyadav/presentations/raw/main/src/pdf/Masters_Thesis.pdf)|
